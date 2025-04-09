@@ -642,6 +642,14 @@ ol {
 	opacity: 1;
 }
 
+.single-hero-item .hero-text p.short-details {
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
 /*---------------------
   Feature Item
 -----------------------*/
